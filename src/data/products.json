@@ -1,0 +1,210 @@
+[
+  {
+    "id": "p001",
+    "name": "Apple iPhone 15 Pro",
+    "category": "Electronics",
+    "brand": "Apple",
+    "description": "Experience the power of the A17 Pro chip, a titanium design, and a pro camera system. The iPhone 15 Pro redefines what a smartphone can do.",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium?wid=800&hei=800&fmt=p-jpg&qlt=95",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-bluetitanium?wid=800&hei=800&fmt=p-jpg&qlt=95"
+    ],
+    "variants": [
+      { "id": "v1", "label": "128GB Natural Titanium", "price": 134900, "mrp": 144900 },
+      { "id": "v2", "label": "256GB Natural Titanium", "price": 144900, "mrp": 154900 },
+      { "id": "v3", "label": "256GB Blue Titanium", "price": 144900, "mrp": 154900 },
+      { "id": "v4", "label": "512GB Black Titanium", "price": 164900, "mrp": 174900 }
+    ],
+    "maxEmiMonths": 24,
+    "specs": [
+      { "label": "Chip", "value": "A17 Pro" },
+      { "label": "Display", "value": "6.1\" Super Retina XDR OLED" },
+      { "label": "Camera", "value": "48MP Main + 12MP Ultra Wide + 12MP 3x Telephoto" },
+      { "label": "Battery", "value": "Up to 23 hrs video playback" },
+      { "label": "Storage", "value": "128GB / 256GB / 512GB / 1TB" },
+      { "label": "OS", "value": "iOS 17" }
+    ],
+    "tags": ["Bestseller", "No-cost EMI"]
+  },
+  {
+    "id": "p002",
+    "name": "Samsung 55\" 4K QLED TV",
+    "category": "Appliances",
+    "brand": "Samsung",
+    "description": "Quantum Dot technology produces over a billion shades of brilliant color. The Q60C delivers a stunning 4K picture for an immersive viewing experience.",
+    "images": [
+      "https://m.media-amazon.com/images/I/71pG-xqSRhL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71eLNQlZxQL._SX679_.jpg"
+    ],
+    "variants": [
+      { "id": "v1", "label": "55 inch", "price": 74990, "mrp": 109990 },
+      { "id": "v2", "label": "65 inch", "price": 104990, "mrp": 149990 },
+      { "id": "v3", "label": "75 inch", "price": 164990, "mrp": 229990 }
+    ],
+    "maxEmiMonths": 18,
+    "specs": [
+      { "label": "Resolution", "value": "4K UHD (3840 x 2160)" },
+      { "label": "Display", "value": "QLED with Quantum Dot" },
+      { "label": "HDR", "value": "Quantum HDR" },
+      { "label": "Smart TV", "value": "Tizen OS" },
+      { "label": "Refresh Rate", "value": "60Hz" },
+      { "label": "Connectivity", "value": "3x HDMI, 2x USB, Wi-Fi, Bluetooth" }
+    ],
+    "tags": ["Hot Deal", "No-cost EMI"]
+  },
+  {
+    "id": "p003",
+    "name": "MacBook Air M3",
+    "category": "Electronics",
+    "brand": "Apple",
+    "description": "Supercharged by the M3 chip, MacBook Air is faster and more capable than ever. With all-day battery life and a stunning Liquid Retina display.",
+    "images": [
+      "https://m.media-amazon.com/images/I/61dVSBxd5IL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61yTiER6UXSL._SX679_.jpg"
+    ],
+    "variants": [
+      { "id": "v1", "label": "13\" 8GB / 256GB Midnight", "price": 114900, "mrp": 119900 },
+      { "id": "v2", "label": "13\" 8GB / 512GB Starlight", "price": 134900, "mrp": 139900 },
+      { "id": "v3", "label": "15\" 8GB / 256GB Space Gray", "price": 134900, "mrp": 139900 },
+      { "id": "v4", "label": "15\" 16GB / 512GB Silver", "price": 164900, "mrp": 169900 }
+    ],
+    "maxEmiMonths": 24,
+    "specs": [
+      { "label": "Chip", "value": "Apple M3" },
+      { "label": "Memory", "value": "8GB / 16GB Unified Memory" },
+      { "label": "Display", "value": "13.6\" or 15.3\" Liquid Retina" },
+      { "label": "Battery", "value": "Up to 18 hrs" },
+      { "label": "Ports", "value": "2x Thunderbolt / USB 4, MagSafe 3" },
+      { "label": "Weight", "value": "1.24 kg (13\")" }
+    ],
+    "tags": ["New Arrival", "No-cost EMI"]
+  },
+  {
+    "id": "p004",
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "brand": "Sony",
+    "description": "Industry-leading noise cancelling headphones with exceptional sound quality, up to 30-hour battery life, and multipoint connection.",
+    "images": [
+      "https://m.media-amazon.com/images/I/61vG2MSKPPL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71o8Q5XJS5L._SX679_.jpg"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Black", "price": 26990, "mrp": 34990 },
+      { "id": "v2", "label": "Silver", "price": 26990, "mrp": 34990 },
+      { "id": "v3", "label": "Midnight Blue", "price": 28990, "mrp": 36990 }
+    ],
+    "maxEmiMonths": 12,
+    "specs": [
+      { "label": "Driver Unit", "value": "30mm" },
+      { "label": "Frequency", "value": "4Hz–40,000Hz" },
+      { "label": "Battery", "value": "Up to 30 hrs (NC ON)" },
+      { "label": "Noise Cancelling", "value": "Dual Noise Sensor Technology" },
+      { "label": "Connectivity", "value": "Bluetooth 5.2, 3.5mm jack" },
+      { "label": "Weight", "value": "250g" }
+    ],
+    "tags": ["Top Rated", "No-cost EMI"]
+  },
+  {
+    "id": "p005",
+    "name": "LG 1.5 Ton 5-Star Inverter AC",
+    "category": "Appliances",
+    "brand": "LG",
+    "description": "Stay cool with LG's energy-efficient 5-Star rated inverter split AC. Features Dual Inverter Compressor, Wi-Fi control via ThinQ app.",
+    "images": [
+      "https://m.media-amazon.com/images/I/41M3bfLSXGL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/41M3bfLSXGL._SX679_.jpg"
+    ],
+    "variants": [
+      { "id": "v1", "label": "1 Ton – White", "price": 34990, "mrp": 49990 },
+      { "id": "v2", "label": "1.5 Ton – White", "price": 42990, "mrp": 59990 },
+      { "id": "v3", "label": "2 Ton – White", "price": 52990, "mrp": 72990 }
+    ],
+    "maxEmiMonths": 18,
+    "specs": [
+      { "label": "Energy Rating", "value": "5 Star BEE" },
+      { "label": "Compressor", "value": "Dual Inverter" },
+      { "label": "Cooling Area", "value": "Up to 150 sq ft (1.5T)" },
+      { "label": "Annual Energy", "value": "647.14 units" },
+      { "label": "Wi-Fi", "value": "Yes (ThinQ App)" },
+      { "label": "Warranty", "value": "1yr product, 5yr compressor, 10yr motor" }
+    ],
+    "tags": ["Energy Saver", "No-cost EMI"]
+  },
+  {
+    "id": "p006",
+    "name": "OnePlus 12 5G",
+    "category": "Electronics",
+    "brand": "OnePlus",
+    "description": "Powered by Snapdragon 8 Gen 3, the OnePlus 12 features a 50MP Hasselblad triple camera, 100W SUPERVOOC charging, and a stunning 120Hz AMOLED display.",
+    "images": [
+      "https://m.media-amazon.com/images/I/61cTMxwG-LL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61-hBFTlPaL._SX679_.jpg"
+    ],
+    "variants": [
+      { "id": "v1", "label": "12GB / 256GB Silky Black", "price": 64999, "mrp": 69999 },
+      { "id": "v2", "label": "16GB / 512GB Flowy Emerald", "price": 74999, "mrp": 79999 }
+    ],
+    "maxEmiMonths": 12,
+    "specs": [
+      { "label": "Processor", "value": "Snapdragon 8 Gen 3" },
+      { "label": "Display", "value": "6.82\" LTPO AMOLED, 120Hz" },
+      { "label": "Camera", "value": "50MP + 48MP + 64MP Hasselblad" },
+      { "label": "Battery", "value": "5400 mAh, 100W SUPERVOOC" },
+      { "label": "OS", "value": "OxygenOS 14 (Android 14)" },
+      { "label": "5G", "value": "Yes" }
+    ],
+    "tags": ["Flash Deal", "No-cost EMI"]
+  },
+  {
+    "id": "p007",
+    "name": "Dyson V15 Detect Vacuum",
+    "category": "Appliances",
+    "brand": "Dyson",
+    "description": "Intelligently adapts to different floor types. Detects hidden dust with laser and quantifies particles with the built-in scientific sensor.",
+    "images": [
+      "https://m.media-amazon.com/images/I/71dD6RJFQ1L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71fXMkF0JHL._SX679_.jpg"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Yellow / Nickel", "price": 62900, "mrp": 72900 },
+      { "id": "v2", "label": "Submarine Blue", "price": 65900, "mrp": 75900 }
+    ],
+    "maxEmiMonths": 12,
+    "specs": [
+      { "label": "Motor", "value": "Hyperdymium – 125,000 RPM" },
+      { "label": "Suction", "value": "230 AW" },
+      { "label": "Battery", "value": "Up to 60 mins run time" },
+      { "label": "Bin Volume", "value": "0.77L" },
+      { "label": "Noise", "value": "73dB" },
+      { "label": "Weight", "value": "3.1 kg" }
+    ],
+    "tags": ["Premium", "No-cost EMI"]
+  },
+  {
+    "id": "p008",
+    "name": "iPad Pro M4 11\"",
+    "category": "Electronics",
+    "brand": "Apple",
+    "description": "The thinnest Apple product ever. With the Ultra Retina XDR tandem OLED display and the M4 chip, iPad Pro takes performance to a whole new level.",
+    "images": [
+      "https://m.media-amazon.com/images/I/71+VNdVK-EL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71xrAq4CwJL._SX679_.jpg"
+    ],
+    "variants": [
+      { "id": "v1", "label": "11\" 256GB Wi-Fi Silver", "price": 99900, "mrp": 109900 },
+      { "id": "v2", "label": "11\" 512GB Wi-Fi Space Black", "price": 119900, "mrp": 129900 },
+      { "id": "v3", "label": "13\" 256GB Wi-Fi Silver", "price": 129900, "mrp": 139900 }
+    ],
+    "maxEmiMonths": 24,
+    "specs": [
+      { "label": "Chip", "value": "Apple M4" },
+      { "label": "Display", "value": "11\" Ultra Retina XDR OLED" },
+      { "label": "Camera", "value": "12MP Wide, 12MP Landscape Ultra Wide" },
+      { "label": "Battery", "value": "Up to 10 hrs" },
+      { "label": "Connectivity", "value": "Wi-Fi 6E, Bluetooth 5.3, USB-C" },
+      { "label": "Pencil", "value": "Apple Pencil Pro (sold separately)" }
+    ],
+    "tags": ["New Arrival", "No-cost EMI"]
+  }
+]

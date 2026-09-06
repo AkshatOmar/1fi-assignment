@@ -1,0 +1,44 @@
+[
+  {
+    "id": "b001",
+    "name": "Air India",
+    "subtitle": "No-cost EMIs upto 18 months",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Air_India_Logo.svg/200px-Air_India_Logo.svg.png",
+    "bgColor": "#C8102E"
+  },
+  {
+    "id": "b002",
+    "name": "Apple Premium Reseller",
+    "subtitle": "No-cost EMIs upto 24 months",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+    "bgColor": "#000000"
+  },
+  {
+    "id": "b003",
+    "name": "CaratLane",
+    "subtitle": "No-cost EMIs upto 6 months",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/CaratLane_logo.svg/200px-CaratLane_logo.svg.png",
+    "bgColor": "#7B2D8B"
+  },
+  {
+    "id": "b004",
+    "name": "Myntra",
+    "subtitle": "No-cost EMIs upto 12 months",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Myntra_Logo.svg/200px-Myntra_Logo.svg.png",
+    "bgColor": "#FF3F6C"
+  },
+  {
+    "id": "b005",
+    "name": "Croma",
+    "subtitle": "No-cost EMIs upto 18 months",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/48/Croma_logo.png",
+    "bgColor": "#00A859"
+  },
+  {
+    "id": "b006",
+    "name": "Amazon",
+    "subtitle": "No-cost EMIs upto 24 months",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "bgColor": "#FF9900"
+  }
+]
